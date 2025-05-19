@@ -4,3 +4,6 @@
 [submodule "lab2"]
 	path = lab2
 	url = git@github.com:notnuff-university-projects/mindblowing-sync.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:notnuff-university-projects/intercommunicato.git
